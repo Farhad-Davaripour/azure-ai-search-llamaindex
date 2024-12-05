@@ -1,0 +1,11 @@
+chainlit
+llama-index-vector-stores-azureaisearch==0.3.0
+llama-index-core
+azure-storage-blob
+python-dotenv
+llama-index
+matplotlib
+llama-index-multi-modal-llms-azure-openai
+llama-index-llms-azure-openai
+llama-index-embeddings-azure-openai
+llama-index==0.12.2
